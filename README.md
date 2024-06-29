@@ -1,4 +1,5 @@
 # **EDUCATION**
+---
 **Master of Science in Information Systems | Northeastern University, Boston, MA (Expected: May 2025)**     
 **Courses:** Data Management and Database Design, Data Science Engineering Methods & Tools, Designing Advanced Data Architecture for BI  
 <br />
@@ -40,8 +41,23 @@ Other tools: Git, R studio, Postman, MS Excel, Power Point, Google Colab, Jupyte
 -	Demonstrated leadership by leading the development of a database system using advanced SQL techniques, creating a relational model (extended ER) with 11 entities, and leveraging aggregate functions and joins to load data into SQL Server  
 -	Created database objects stored procedures, user-defined functions, triggers and non-clustered indexes to optimize data transformation  
 -	Utilized Tableau to develop an interactive dashboard illustrating data analytics on the timing, location, and frequency of individuals seeking counseling services  
-  
+   
 ### Store Sales Forecasting | Github (April 2024)  
 -	Improved exploratory data analysis through data cleaning and preprocessing with Python, specifically Numpy and Pandas and machine learning models to predict future sales focusing on transactions, promotions, holidays, and economic factors  
 -	Developed regression and time-series models to enhance inventory management and sales strategies, achieving a 30% improvement in prediction accuracy  
 -	Increased model performance by conducting hyperparameter tuning, resulting in more reliable sales forecasting  
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Kralizek"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/renatogolia/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Kralizek"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/82540"  
