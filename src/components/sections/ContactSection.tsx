@@ -21,13 +21,7 @@ const ContactSection = () => {
       label: "Email",
       href: "mailto:dhirthacker7@gmail.com",
       color: "from-primary to-purple-500",
-    },
-    {
-      icon: ExternalLink,
-      label: "Portfolio",
-      href: "https://tulip-krill-364.notion.site/Hello-I-am-Dhir-Thacker-170ce8174b498085b60edcd32c3b9338",
-      color: "from-purple-500 to-pink-500",
-    },
+    }
   ];
 
   return (
